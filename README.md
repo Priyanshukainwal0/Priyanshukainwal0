@@ -6,9 +6,14 @@
 
 I build and ship real, production systems — not just tutorials. Three live platforms below, all running in production right now.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-priyanshukainwal0.github.io-2563EB?style=for-the-badge)](https://priyanshukainwal0.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-kainwal)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshuror00@gmail.com)
+<table>
+  <tr>
+    <td><a href="https://priyanshukainwal0.github.io"><img src="https://img.shields.io/badge/Portfolio-priyanshukainwal0.github.io-2563EB?style=for-the-badge" alt="Portfolio"/></a></td>
+    <td><a href="https://www.linkedin.com/in/priyanshu-kainwal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
+    <td><a href="mailto:priyanshuror00@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a></td>
+    <td><a href="tel:+61478199436"><img src="https://img.shields.io/badge/Call-0478_199_436-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call"/></a></td>
+  </tr>
+</table>
 
 </div>
 
@@ -80,4 +85,4 @@ A production REST API covering the full ticket lifecycle, with Terraform-provisi
 
 I'm actively looking for **IT, DevOps, or Software Engineering** roles — open to on-site, hybrid, or remote opportunities.
 
-📧 [priyanshuror00@gmail.com](mailto:priyanshuror00@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/priyanshu-kainwal) · 🌐 [Portfolio](https://priyanshukainwal0.github.io)
+📧 [priyanshuror00@gmail.com](mailto:priyanshuror00@gmail.com) · 📞 [0478 199 436](tel:+61478199436) · 🔗 [LinkedIn](https://www.linkedin.com/in/priyanshu-kainwal) · 🌐 [Portfolio](https://priyanshukainwal0.github.io)
