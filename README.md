@@ -10,7 +10,7 @@ I build and ship real, production systems — not just tutorials. Three live pla
   <tr>
     <td><a href="https://priyanshukainwal0.github.io"><img src="https://img.shields.io/badge/Portfolio-priyanshukainwal0.github.io-2563EB?style=for-the-badge" alt="Portfolio"/></a></td>
     <td><a href="https://www.linkedin.com/in/priyanshu-kainwal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
-    <td><a href="https://mail.google.com/mail/?view=cm&fs=1&to=priyanshuror00@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a></td>
+    <td><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=priyanshuror00@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a></td>
     <td><a href="tel:+61478199436"><img src="https://img.shields.io/badge/Call-0478_199_436-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call"/></a></td>
   </tr>
 </table>
